@@ -1,0 +1,52 @@
+body{
+    background-image: url("https://i.gifer.com/TTWo.gif");
+    font-family: 'Brawler', serif;
+}
+
+.titulo h1{
+    color: rgb(51, 255, 0);
+    position: center;
+    top: 70px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.imagen{
+ position: relative;
+ display: flex;
+ justify-content: center;
+ margin-top: 50px;
+}
+
+.grezzo1{
+  margin-left: 10px;
+}
+
+.grezzo2{
+  margin-left: 10px;
+}
+
+
+.descripción{
+  color: rgb(51, 255, 0);
+    top: 70px;
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.logo{
+ position: absolute;
+ right: 0;
+ top: 0;
+ display: block;
+ height: 100px;
+ width: 100px;
+}
+
+.logoG{
+  height: 50px;
+  width: 80px;
+}
